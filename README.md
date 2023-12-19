@@ -10,7 +10,7 @@
 👨‍💻 <b>Mentor in the Trenches:</b> Leading aspiring tech minds as a Programming and Mathematics Tutor  
 🌟 <b>My Ethos:</b> Unyielding in pursuit, relentless in innovation, united in collaboration           
 
-## </> Things I code with
+## </> Arsenal of code
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -28,12 +28,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🔥 Exciting things I'm working on
+## 🔥 What I'm Building Now              
 
-🧭 <b>FHTWays:</b> Crafting an interactive web application for navigation inside my university for blind & visually impaired users       
-📜 <b>Certifications:</b> Actively completing <b>AWS: Cloud Technical Essentials</b> and <b>Java Full-Stack Developer</b>           
-🎯 <b>Practice:</b> Seeking internships and work & study programs to utilize my technical skills and contribute to interesting projects
+🧭 <b>FHTWays:</b> Developing a navigation app to help blind and visually impaired students find their way around the university campus           
+📜 <b>Certifications:</b> Sharpening my skills in the fires of <b>AWS: Cloud Technical Essentials</b> and <b>Java Full-Stack Developer</b>           
+🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech prowess and contribute to epic projects           
 
-## 🌐 Connect with me
+## 🌐 Connect with me             
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehor-zudikhin/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/817809904004759606)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yehorzudikhin17@gmail.com)
 
