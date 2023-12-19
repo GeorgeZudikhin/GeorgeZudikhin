@@ -6,9 +6,9 @@
 ## 🚀 My Manifesto
 
 🎓 <b>Tech Savage</b> sculpted by BSc in CS at FH Technikum Wien & refined by Stanford's Summer Quarter   
-🌐 <b>Polyglot Programmer:</b> Proficient German & English, with Ukrainian & Russian etched into my source code       
+🌐 <b>Polyglot Programmer:</b> Proficient German & English, with Ukrainian & Russian built into my source code       
 👨‍💻 <b>Mentor in the Trenches:</b> Leading aspiring tech minds as a Programming and Mathematics Tutor  
-🌟 <b>My Ethos:</b> Unyielding in pursuit, relentless in innovation, united in collaboration           
+🌟 <b>My Ethos:</b> Unstoppable in pursuit, relentless in innovation, united in collaboration           
 
 ## </> Arsenal of code
 
@@ -20,6 +20,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -27,12 +29,14 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ## 🔥 What I'm Building Now              
 
 🧭 <b>FHTWays:</b> Developing a navigation app to help blind and visually impaired students find their way around the university campus           
 📜 <b>Certifications:</b> Sharpening my skills in the fires of <b>AWS: Cloud Technical Essentials</b> and <b>Java Full-Stack Developer</b>           
-🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech prowess and contribute to epic projects           
+🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech knowledge and contribute to epic projects           
 
 ## 🌐 Connect with me             
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yehor-zudikhin/)
