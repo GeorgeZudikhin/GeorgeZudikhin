@@ -36,7 +36,7 @@
 ## 🔥 What I'm Building Now              
 
 🧭 <b>FHTWays:</b> Developing a navigation app to help blind and visually impaired students find their way around the university campus           
-📜 <b>Certifications:</b> Sharpening my skills in the fires of <b>AWS: Cloud Technical Essentials</b> and <b>Java Full-Stack Developer</b>           
+📜 <b>Certifications:</b> Sharpening my skills through <b>Meta: Backend Developer Capstone</b>           
 🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech knowledge and contribute to epic projects           
 
 ## 🌐 Connect with me             
