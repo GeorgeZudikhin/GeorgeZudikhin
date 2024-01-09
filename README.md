@@ -20,9 +20,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -36,7 +33,6 @@
 ## 🔥 What I'm Building Now              
 
 🧭 <b>FHTWays:</b> Developing a navigation app to help blind and visually impaired students find their way around the university campus           
-📜 <b>Certifications:</b> Sharpening my skills through <b>Meta: Backend Developer Capstone</b>           
 🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech knowledge and contribute to epic projects           
 
 ## 🌐 Connect with me             
