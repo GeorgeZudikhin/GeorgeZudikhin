@@ -7,7 +7,6 @@
 
 🎓 <b>Tech Savage</b> sculpted by BSc in CS at FH Technikum Wien & refined by Stanford's Summer Quarter   
 🌐 <b>Polyglot Programmer:</b> Proficient German & English, with Ukrainian & Russian built into my source code       
-👨‍💻 <b>Mentor in the Trenches:</b> Leading aspiring tech minds as a Programming and Mathematics Tutor  
 🌟 <b>My Ethos:</b> Unstoppable in pursuit, relentless in innovation, united in collaboration           
 
 ## </> Arsenal of code
