@@ -33,7 +33,8 @@
 ## 🔥 What I'm Building Now              
 
 🧭 <b>FHTWays:</b> Developing a navigation app to help blind and visually impaired students find their way around the university campus           
-🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech knowledge and contribute to epic projects           
+💬 <b>Real-Time Chat App:</b> Architecting a full-fledged real-time chat app with secure authentication mechanisms and a robust REST API           
+🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech knowledge and contribute to epic projects    
 
 ## 🌐 Connect with me             
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-zudikhin/)
