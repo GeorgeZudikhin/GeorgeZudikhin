@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Greetings from the code arena!</h1>
 
 
-<p>Welcome to my digital bastion 👨🏻‍💻 </br> I'm George, Software Engineer from <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="13"/> <b>Odesa, Ukraine</b>, now deploying code in <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" width="13"/> <b>Vienna, Austria</b>. </p>
+<p>Welcome to my digital bastion 👨🏻‍💻 </br> I'm George, Software Engineer @ IBM from <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="13"/> <b>Odesa, Ukraine</b>, now deploying code in <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg" width="13"/> <b>Vienna, Austria</b>. </p>
 
 ## 🚀 My Manifesto
 
@@ -28,13 +28,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-
-## 🔥 What I'm Building Now              
-
-🧭 <b>FHTWays:</b> Developing a navigation app to help blind and visually impaired students find their way around the university campus           
-💬 <b>Real-Time Chat App:</b> Architecting a full-fledged real-time chat app with secure authentication mechanisms and a robust REST API           
-🎯 <b>Practice:</b> On the hunt for internships and work & study programs where I can unleash my tech knowledge and contribute to epic projects    
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 
 ## 🌐 Connect with me             
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/george-zudikhin/)
